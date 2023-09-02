@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Loquite
+- 👋 Hi, I’m @gemuel
 - 👀 I’m interested in web development,
 - 🌱 I’m currently learning javascript,
 - 💞️ I’m looking to collaborate on ...
